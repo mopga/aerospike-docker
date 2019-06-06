@@ -1,4 +1,4 @@
-# Aerospike DB cluster in docker-compose with autodiskovery and scaling.
+# Aerospike DB cluster in docker-compose with auto discovery and scaling ability.
 
 ## INSTALL AND RUN
 
