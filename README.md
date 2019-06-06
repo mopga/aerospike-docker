@@ -1,6 +1,6 @@
-#Aerospike DB cluster in docker-compose with autodiskovery and scaling.
+# Aerospike DB cluster in docker-compose with autodiskovery and scaling.
 
-##INSTALL AND RUN
+## INSTALL AND RUN
 
 0. You need docker and docker-compose installed in your system. 
     Versions:
